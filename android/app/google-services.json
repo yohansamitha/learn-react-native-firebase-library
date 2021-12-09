@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412791742011",
+    "firebase_url": "https://iot-database-fbb22-default-rtdb.firebaseio.com",
+    "project_id": "iot-database-fbb22",
+    "storage_bucket": "iot-database-fbb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412791742011:android:d1ed773bcda7daddcd061e",
+        "android_client_info": {
+          "package_name": "com.firebaselearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412791742011-ad9aup6ne7qvmet9vru59n0764nvsijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQDtmBJljgrpfd08eXomqn1oeMVvK3a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412791742011-ad9aup6ne7qvmet9vru59n0764nvsijg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
